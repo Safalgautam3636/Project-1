@@ -88,9 +88,9 @@ Circumference: 155596.80094699527 km
 ```
 
 **Screenshots**
-<img width="782" alt="Screenshot 2024-02-04 at 7 58 54 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/dcfec5af-7695-4419-84fd-4bf05ea0aab0">
-<img width="531" alt="Screenshot 2024-02-04 at 7 59 37 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/245be120-3a3a-4cd9-8205-4ed19d771ee6">
-<img width="531" alt="Screenshot 2024-02-04 at 7 59 50 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/1d3c8fb3-0a68-42d4-889d-5be59e85a097">
+<img width="1015" alt="Screenshot 2024-02-20 at 1 48 21 AM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/41bc62a6-ae45-4f71-86cc-70bfad85729c">
+<img width="835" alt="Screenshot 2024-02-20 at 1 48 42 AM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/5a958a03-4ba5-4d04-bf04-3f31fc4f2135">
+
 
 **Procedural Programming**
 
@@ -183,6 +183,8 @@ DistanceFromSun:  30.06  au
 OrbitalPeriod:  164.80996394635852  yr
 ```
 **Screenshots**
-<img width="531" alt="Screenshot 2024-02-04 at 8 04 36 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/3e179964-3477-4f85-ae20-9bbfac948e53">
-<img width="531" alt="Screenshot 2024-02-04 at 8 04 53 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/ad0dc0f1-5ac1-4a98-ace0-a09a4ceefc9e">
+<img width="823" alt="Screenshot 2024-02-20 at 1 49 30 AM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/679b73a3-38df-4a08-8400-3b709cf16c43">
+<img width="545" alt="Screenshot 2024-02-20 at 1 49 46 AM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/6b3a5261-9c20-44e2-9cba-d6957b41838d">
+<img width="545" alt="Screenshot 2024-02-20 at 1 49 59 AM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/8e7a900a-bfd9-4334-96ec-48e281f22f91">
+
 
