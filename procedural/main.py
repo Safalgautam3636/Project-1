@@ -11,7 +11,6 @@ def calculate_circumference(diameter):
 
 
 def compute_volume(diameter):
-    print((1.0 / 6.0) * math.pi * math.pow(diameter, 3))
     return (1.0 / 6.0) * math.pi * math.pow(diameter, 3)
 
 
@@ -64,7 +63,7 @@ def build_object(raw):
         if planet.get("Moons"):
             for moon in planet.get("Moons"):
                 moon_obj = {}
-                moon_obj["Name"] = planet.get("Name")
+                moon_obj["Name"] = moon.get("Name")
                 handle_dia_cir(moon_obj, moon)
                 moons.append(moon_obj)
         planet_obj["Moons"] = moons
