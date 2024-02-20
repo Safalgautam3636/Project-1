@@ -195,7 +195,7 @@ Circumference:  40075  km
 DistanceFromSun:  1  au
 OrbitalPeriod:  1  yr
 Moon- 0
-Moon:  Earth
+Moon:  Luna
 Diameter:  3474  km
 Circumference:  10917  km
 
@@ -206,11 +206,11 @@ Circumference:  21344  km
 DistanceFromSun:  1.52  au
 OrbitalPeriod:  1.873981856902569  yr
 Moon- 0
-Moon:  Mars
+Moon:  Phobos
 Diameter:  22.5  km
 Circumference:  70.68583470577035  km
 Moon- 1
-Moon:  Mars
+Moon:  Deimos
 Diameter:  12.414085561167836  km
 Circumference:  39  km
 
@@ -221,15 +221,15 @@ Circumference:  449197.483980883  km
 DistanceFromSun:  5.2  au
 OrbitalPeriod:  11.857824421031035  yr
 Moon- 0
-Moon:  Jupiter
+Moon:  Ganymede
 Diameter:  5268  km
 Circumference:  16549.91009911103  km
 Moon- 1
-Moon:  Jupiter
+Moon:  Callisto
 Diameter:  1534.4446373375815  km
 Circumference:  4820.6  km
 Moon- 2
-Moon:  Jupiter
+Moon:  Io
 Diameter:  1159.6665773447862  km
 Circumference:  3643.2  km
 
@@ -253,7 +253,6 @@ Diameter:  49528  km
 Circumference:  155596.80094699527  km
 DistanceFromSun:  30.06  au
 OrbitalPeriod:  164.80996394635852  yr
-
 ```
 **Screenshots**
 <img width="531" alt="Screenshot 2024-02-04 at 8 04 36 PM" src="https://github.com/Safalgautam3636/Project-1/assets/63838373/3e179964-3477-4f85-ae20-9bbfac948e53">
