@@ -12,18 +12,6 @@ Distance from Sun: 0.8547598243988076 au
 Orbital period: 0.39 yr
 Diameter: 4879.372245311328 km
 Circumference: 15329.0 km
-Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
 
 Planet number-2
 Planet: Venus
@@ -31,18 +19,6 @@ Distance from Sun: 0.72 au
 Orbital period: 0.610940258945177 yr
 Diameter: 12104.0 km
 Circumference: 38025.83747905085 km
-Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
 
 Planet number-3
 Planet: Earth
@@ -51,17 +27,9 @@ Orbital period: 1.0 yr
 Diameter: 12756.0 km
 Circumference: 40075.0 km
 Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
+Moon: Luna
+Diameter: 3474.0 km
+Circumference: 10917.0 km
 
 Planet number-4
 Planet: Mars
@@ -70,17 +38,13 @@ Orbital period: 1.873981856902569 yr
 Diameter: 6794.006210706828 km
 Circumference: 21344.0 km
 Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
+Moon: Phobos
+Diameter: 22.5 km
+Circumference: 70.68583470577035 km
 Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
+Moon: Deimos
+Diameter: 12.414085561167836 km
+Circumference: 39.0 km
 
 Planet number-5
 Planet: Jupiter
@@ -107,18 +71,6 @@ Distance from Sun: 9.54 au
 Orbital period: 29.46609346350479 yr
 Diameter: 120536.0 km
 Circumference: 378675.0120930993 km
-Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
 
 Planet number-7
 Planet: Uranus
@@ -126,18 +78,6 @@ Distance from Sun: 19.2 au
 Orbital period: 84.1301848327935 yr
 Diameter: 51118.0 km
 Circumference: 160591.93326620304 km
-Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
 
 Planet number-8
 Planet: Neptune
@@ -145,18 +85,6 @@ Distance from Sun: 30.06 au
 Orbital period: 164.80996394635852 yr
 Diameter: 49528.0 km
 Circumference: 155596.80094699527 km
-Moon number-1
-Moon: Ganymede
-Diameter: 5268.0 km
-Circumference: 16549.91009911103 km
-Moon number-2
-Moon: Callisto
-Diameter: 1534.4446373375815 km
-Circumference: 4820.6 km
-Moon number-3
-Moon: Io
-Diameter: 1159.6665773447862 km
-Circumference: 3643.2 km
 ```
 
 **Screenshots**
